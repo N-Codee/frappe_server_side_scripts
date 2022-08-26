@@ -1,5 +1,9 @@
-# <h><center>frappe server side scripts<center></h>
-    def on_update(self):
+#h1frappe server side scripts
+    def before_insert(self):
+        """
+        trigger before the first insert into database table
+        this will not trigger for existing records.
+        """
         pass
     
 # test
