@@ -1,4 +1,4 @@
-#h1frappe server side scripts
+# h1frappe server side scripts
     def before_insert(self):
         """
         trigger before the first insert into database table
