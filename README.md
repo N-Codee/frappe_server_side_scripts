@@ -1,4 +1,4 @@
-# <h>frappe server side scripts</h>
+# <h><center>frappe server side scripts<center></h>
     def on_update(self):
         pass
     
