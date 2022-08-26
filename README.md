@@ -1,4 +1,5 @@
 # frappe server side scripts
+## 1
 
     def before_insert(self):
         """
@@ -6,6 +7,7 @@
         this will not trigger for existing records.
         """
         pass
+ ## 2
     
     def after_insert(self):
         """
