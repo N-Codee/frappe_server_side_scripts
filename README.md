@@ -101,3 +101,9 @@
         """
         
         
+## 14
+    
+    def before_print(self):
+        """
+        this will trigger before print preview 
+        """
